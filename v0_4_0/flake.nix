@@ -9,7 +9,7 @@
   
   inputs.src-yaml-v0_4_0.flake = false;
   inputs.src-yaml-v0_4_0.owner = "flyx";
-  inputs.src-yaml-v0_4_0.ref   = "refs/tags/v0.4.0";
+  inputs.src-yaml-v0_4_0.ref   = "v0_4_0";
   inputs.src-yaml-v0_4_0.repo  = "NimYAML";
   inputs.src-yaml-v0_4_0.type  = "github";
   
