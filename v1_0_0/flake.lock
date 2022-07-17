@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-yaml-master": "src-yaml-master"
+        "src-yaml-v1_0_0": "src-yaml-v1_0_0"
       }
     },
-    "src-yaml-master": {
+    "src-yaml-v1_0_0": {
       "flake": false,
       "locked": {
         "lastModified": 1657488265,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "flyx",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v1.0.0",
         "repo": "NimYAML",
         "type": "github"
       }
